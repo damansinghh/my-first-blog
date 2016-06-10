@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+.gitignore
+.idea/
+blog/
+db (DESKTOP-CL8154S's conflicted copy 2016-06-10).sqlite3
+manage.py
+mysite/
+polls/
+templates/
